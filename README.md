@@ -1,4 +1,4 @@
-MADFUT Discord Bot - Game Enhancement Tool
+# MADFUT Discord Bot - Game Enhancement Tool
 
 MADFUT Discord Bot
 
